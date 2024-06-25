@@ -1,9 +1,9 @@
 # 운영체제
 
-## 1강
+## Lecture 1. Computer System Overview
 
-## 2강
+## Lecture 2. OS Overview
 
-## 3강
+## Lecture 3. Process Management
 
-## 4강
+## Lecture 4. Thread Management
